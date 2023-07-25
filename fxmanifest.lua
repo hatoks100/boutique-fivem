@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-author 'evann :)'
+author 'evann:)'
 
 ----- Script pour le SRC
 
